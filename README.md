@@ -1,4 +1,4 @@
-#  Fine-Tuning a Text Classifier with BERT
+# 🚀 Fine-Tuning a Text Classifier with BERT
 
 This notebook demonstrates how to fine-tune a **BERT-based text classification model** using the Hugging Face `transformers` library. The model is trained on a labeled dataset to predict class categories for given text inputs.
 
